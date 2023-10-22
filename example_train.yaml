@@ -1,0 +1,11 @@
+path: road_defect_indo/
+train: train/images
+val: validation/images
+ 
+# class names
+names: 
+  0: pothole
+  1: retak_buaya
+  2: retak_memanjang
+  3: retak_melintang
+  4: block_road_crack
